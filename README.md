@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Verilog, C, Java, Python, ARM v7**
 
-- 📫 How to reach me **jasonhsuschoolbusiness@gmail.com**
+- 📫 How to reach me **jasonhsubusiness@gmail.com**
 
 - ⚡ Fun fact **I create tech review videos!**
 
