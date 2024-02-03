@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jasonhsubusiness@gmail.com**
 
-- ⚡ Fun fact **I create tech review videos!**
+- ⚡ Fun fact **I create tech review videos!** and **I can speak both Chinese and English fluently!** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
