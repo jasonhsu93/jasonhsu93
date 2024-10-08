@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.JS, HTML, CSS, Verilog, C, Java, Python**
 
-- 📫 How to reach me **jasonhsuschoolbusiness@gmail.com**
+- 📫 How to reach me **jasonhsubusiness@gmail.com**
 
 - ⚡ Fun fact **I create tech review videos!**
 
