@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Hsu</h1>
 <h3 align="center">I'm a student at the University of British Columbia, majoring in 💻 Computer Engineering</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently taking Machine Learning/Deep Learning courses to work on Autonomous Vehicles! 
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.JS, HTML, CSS, Verilog, C, Java, Python**
 
