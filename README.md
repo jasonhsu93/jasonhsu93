@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jasonhsubusiness@gmail.com**
 
-- ⚡ Check out my portfolio [**portfolio!**](https://jasonhsu93.github.io/personal-portfolio/)
+- ⚡ Check out my [**portfolio!**](https://jasonhsu93.github.io/personal-portfolio/)
 
 <h3 align="left">Check out my Tech Review videos:</h3>
 <p align="left">
