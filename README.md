@@ -28,5 +28,5 @@ Computer Science Exchange — 2026
 
 ---
 
-📫 **LinkedIn:** [linkedin.com/in/jasonhsu-]  
-🌐 **Portfolio:** [jasonhsu.ca]
+📫 (**LinkedIn:**)[linkedin.com/in/jasonhsu-]  
+🌐 (**Portfolio:**)[jasonhsu.ca]
