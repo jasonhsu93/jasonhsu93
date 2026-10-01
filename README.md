@@ -1,8 +1,8 @@
 # Hi, I'm Jason 👋
 
-I'm a **Computer Engineering student at the University of British Columbia (UBC)** interested in software engineering, mobile development, computer vision, and backend systems.
+I'm a **Computer Engineering student at the University of British Columbia ** interested in software engineering, mobile development, computer vision, and backend systems.
 
-I previously worked as a **Software Engineer Intern at Korotu Technology**, where I contributed to CarbonCruise, a production forestry application used for collecting and managing tree inventory data.
+I previously worked as a **Software Engineer Intern at Korotu Technology**, where I contributed to [CarbonCruise](https://www.korotu.com/carboncruise), a production forestry application used for collecting and managing tree inventory data.
 
 ## 🛠️ Technologies
 
@@ -28,5 +28,5 @@ Computer Science Exchange — 2026
 
 ---
 
-📫 (**LinkedIn:**)[linkedin.com/in/jasonhsu-]  
-🌐 (**Portfolio:**)[jasonhsu.ca]
+📫 **LinkedIn:** [linkedin.com/in/jasonhsu-](https://linkedin.com/in/jasonhsu-)  
+🌐 **Portfolio:** [jasonhsu.ca](https://jasonhsu.ca)
