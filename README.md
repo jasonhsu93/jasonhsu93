@@ -2,7 +2,7 @@
 
 I'm a **Computer Engineering student at the University of British Columbia** interested in software engineering, mobile development, robotics, and backend systems.
 
-I previously worked as a **Software Engineer Intern at Korotu Technology**, where I contributed to [CarbonCruise](https://www.korotu.com/carboncruise), a production forestry application used for collecting and managing tree inventory data.
+I previously worked as a **Software Engineer Intern at Korotu Technology**, where I contributed to [CarbonCruise](https://www.korotu.com/carboncruise), an inventory platform and iOS application used for collecting and managing forestry data.
 
 ## 🛠️ Technologies
 
