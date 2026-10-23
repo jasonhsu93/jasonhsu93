@@ -21,7 +21,7 @@ I previously worked as a **Software Engineer Intern at Korotu Technology**, wher
 ## 🎓 Education
 
 **University of British Columbia**  
-B.A.Sc. Computer Engineering — Expected 2027
+B.A.Sc. Computer Engineering — Expected 2027-2028 (Flexible)
 
 **University of Tsukuba, Japan**  
 Computer Science Exchange — 2026
